@@ -1,0 +1,566 @@
+[
+  {
+    "start": 1,
+    "length": 2,
+    "token": "பசுமைப் புரட்சி ",
+    "cls": "event"
+  },
+  {
+    "start": 38,
+    "length": 2,
+    "token": "பசுமைப் புரட்சி",
+    "cls": "event"
+  },
+  {
+    "start": 67,
+    "length": 2,
+    "token": "பசுமைப் புரட்சியின்",
+    "cls": "event"
+  },
+  {
+    "start": 111,
+    "length": 2,
+    "token": "பசுமைப் புரட்சியின்",
+    "cls": "event"
+  },
+  {
+    "start": 0,
+    "length": 1,
+    "token": "இந்தியாவின் ",
+    "cls": "location"
+  },
+  {
+    "start": 66,
+    "length": 1,
+    "token": "இந்தியாவின்",
+    "cls": "location"
+  },
+  {
+    "start": 4,
+    "length": 2,
+    "token": "1966ஆம் ஆண்டு ",
+    "cls": "time"
+  },
+  {
+    "start": 7,
+    "length": 1,
+    "token": "இந்திய ",
+    "cls": "location"
+  },
+  {
+    "start": 93,
+    "length": 1,
+    "token": "இந்திய",
+    "cls": "location"
+  },
+  {
+    "start": 100,
+    "length": 1,
+    "token": "இந்திய",
+    "cls": "location"
+  },
+  {
+    "start": 15,
+    "length": 1,
+    "token": "இந்தியா ",
+    "cls": "location"
+  },
+  {
+    "start": 45,
+    "length": 1,
+    "token": "இந்தியாவில்",
+    "cls": "location"
+  },
+  {
+    "start": 59,
+    "length": 1,
+    "token": "இந்தியாவில்",
+    "cls": "location"
+  },
+  {
+    "start": 46,
+    "length": 2,
+    "token": "பசுமைப் புரட்சிக்குப் ",
+    "cls": "event"
+  },
+  {
+    "start": 54,
+    "length": 2,
+    "token": "1963ஆம் ஆண்டில் ",
+    "cls": "time"
+  },
+  {
+    "start": 57,
+    "length": 2,
+    "token": "நார்மன் போர்லாக் ",
+    "cls": "person"
+  },
+  {
+    "start": 96,
+    "length": 3,
+    "token": "எம். எஸ். சுவாமிநாதன் ",
+    "cls": "person"
+  },
+  {
+    "start": 106,
+    "length": 2,
+    "token": "சி. சுப்பிரமணியம் ",
+    "cls": "person"
+  },
+  {
+    "start": 10,
+    "length": 1,
+    "token": "இந்தியா ",
+    "cls": "location"
+  },
+  {
+    "start": 18,
+    "length": 1,
+    "token": "இந்தியாவின்",
+    "cls": "location"
+  },
+  {
+    "start": 145,
+    "length": 1,
+    "token": "இந்தியாவிற்கு",
+    "cls": "location"
+  },
+  {
+    "start": 155,
+    "length": 1,
+    "token": "இந்தியா",
+    "cls": "location"
+  },
+  {
+    "start": 39,
+    "length": 1,
+    "token": "மேற்கத்திய ",
+    "cls": "group"
+  },
+  {
+    "start": 46,
+    "length": 2,
+    "token": "ஜவஹர்லால் நேருவும் ",
+    "cls": "person"
+  },
+  {
+    "start": 58,
+    "length": 2,
+    "token": "ஐக்கிய அமெரிக்காவுடனும் ",
+    "cls": "location"
+  },
+  {
+    "start": 60,
+    "length": 2,
+    "token": "சோவியத் உருசியாவுடனும், ",
+    "cls": "location"
+  },
+  {
+    "start": 75,
+    "length": 1,
+    "token": "1940களிலிருந்தே ",
+    "cls": "time"
+  },
+  {
+    "start": 76,
+    "length": 1,
+    "token": "இந்திய ",
+    "cls": "location"
+  },
+  {
+    "start": 89,
+    "length": 2,
+    "token": "1953ஆம் ஆண்டில் ",
+    "cls": "time"
+  },
+  {
+    "start": 91,
+    "length": 2,
+    "token": "ஐக்கிய நாடுகள் ",
+    "cls": "group"
+  },
+  {
+    "start": 94,
+    "length": 4,
+    "token": "வி. கே. கிருஷ்ண மேனன் ",
+    "cls": "person"
+  },
+  {
+    "start": 104,
+    "length": 1,
+    "token": "நேரு ",
+    "cls": "person"
+  },
+  {
+    "start": 105,
+    "length": 2,
+    "token": "1954ஆம் ஆண்டில் ",
+    "cls": "time"
+  },
+  {
+    "start": 107,
+    "length": 1,
+    "token": "இலங்கையில் ",
+    "cls": "location"
+  },
+  {
+    "start": 108,
+    "length": 1,
+    "token": "கொழும்புவில் ",
+    "cls": "location"
+  },
+  {
+    "start": 114,
+    "length": 1,
+    "token": "இந்திய-சீன ",
+    "cls": "group"
+  },
+  {
+    "start": 117,
+    "length": 1,
+    "token": "சீனப் ",
+    "cls": "location"
+  },
+  {
+    "start": 137,
+    "length": 2,
+    "token": "ஜவஹர்லால் நேருவின் ",
+    "cls": "person"
+  },
+  {
+    "start": 0,
+    "length": 2,
+    "token": "இந்திய-பாகிஸ்தான் போர், ",
+    "cls": "event"
+  },
+  {
+    "start": 35,
+    "length": 2,
+    "token": "இந்தியபாகிஸ்தான் போர்",
+    "cls": "event"
+  },
+  {
+    "start": 86,
+    "length": 2,
+    "token": "இந்தியபாகிஸ்தான் போர்",
+    "cls": "event"
+  },
+  {
+    "start": 187,
+    "length": 2,
+    "token": "இந்தியபாகிஸ்தான் போரை",
+    "cls": "event"
+  },
+  {
+    "start": 2,
+    "length": 1,
+    "token": "1947, ",
+    "cls": "time"
+  },
+  {
+    "start": 3,
+    "length": 1,
+    "token": "பிரித்தானியவின் ",
+    "cls": "group"
+  },
+  {
+    "start": 4,
+    "length": 1,
+    "token": "இந்தியப் ",
+    "cls": "location"
+  },
+  {
+    "start": 9,
+    "length": 1,
+    "token": "இந்தியா ",
+    "cls": "location"
+  },
+  {
+    "start": 49,
+    "length": 1,
+    "token": "இந்தியா",
+    "cls": "location"
+  },
+  {
+    "start": 110,
+    "length": 1,
+    "token": "இந்தியா",
+    "cls": "location"
+  },
+  {
+    "start": 137,
+    "length": 1,
+    "token": "இந்தியாவின்",
+    "cls": "location"
+  },
+  {
+    "start": 141,
+    "length": 1,
+    "token": "இந்தியா",
+    "cls": "location"
+  },
+  {
+    "start": 150,
+    "length": 1,
+    "token": "இந்தியா",
+    "cls": "location"
+  },
+  {
+    "start": 156,
+    "length": 1,
+    "token": "இந்தியா",
+    "cls": "location"
+  },
+  {
+    "start": 179,
+    "length": 1,
+    "token": "இந்தியா",
+    "cls": "location"
+  },
+  {
+    "start": 11,
+    "length": 1,
+    "token": "பாகிஸ்தான் ",
+    "cls": "location"
+  },
+  {
+    "start": 39,
+    "length": 1,
+    "token": "பாகிஸ்தான்",
+    "cls": "location"
+  },
+  {
+    "start": 68,
+    "length": 1,
+    "token": "பாகிஸ்தான்",
+    "cls": "location"
+  },
+  {
+    "start": 132,
+    "length": 1,
+    "token": "பாகிஸ்தான்",
+    "cls": "location"
+  },
+  {
+    "start": 160,
+    "length": 1,
+    "token": "பாகிஸ்தான்",
+    "cls": "location"
+  },
+  {
+    "start": 14,
+    "length": 2,
+    "token": "ஹரி சிங் ",
+    "cls": "person"
+  },
+  {
+    "start": 105,
+    "length": 2,
+    "token": "ஹரி சிங்",
+    "cls": "person"
+  },
+  {
+    "start": 135,
+    "length": 2,
+    "token": "ஹரி சிங்",
+    "cls": "person"
+  },
+  {
+    "start": 17,
+    "length": 3,
+    "token": "ஜம்மு காஷ்மீர் நாட்டை ",
+    "cls": "location"
+  },
+  {
+    "start": 107,
+    "length": 3,
+    "token": "ஜம்மு காஷ்மீர் நாட்டை",
+    "cls": "location"
+  },
+  {
+    "start": 25,
+    "length": 3,
+    "token": "22 அக்டோபர் 1947 ",
+    "cls": "time"
+  },
+  {
+    "start": 29,
+    "length": 3,
+    "token": "31 டிசம்பர் 1948 ",
+    "cls": "time"
+  },
+  {
+    "start": 73,
+    "length": 1,
+    "token": "14,000 ",
+    "cls": "quantity"
+  },
+  {
+    "start": 62,
+    "length": 1,
+    "token": "1,500 ",
+    "cls": "quantity"
+  },
+  {
+    "start": 65,
+    "length": 1,
+    "token": "3,500 ",
+    "cls": "quantity"
+  },
+  {
+    "start": 70,
+    "length": 1,
+    "token": "6,000 ",
+    "cls": "quantity"
+  },
+  {
+    "start": 76,
+    "length": 1,
+    "token": "இந்திய-பாகிஸ்தான் ",
+    "cls": "group"
+  },
+  {
+    "start": 52,
+    "length": 1,
+    "token": "ஜம்மு ",
+    "cls": "location"
+  },
+  {
+    "start": 99,
+    "length": 1,
+    "token": "ஜம்மு",
+    "cls": "location"
+  },
+  {
+    "start": 145,
+    "length": 1,
+    "token": "ஜம்மு",
+    "cls": "location"
+  },
+  {
+    "start": 153,
+    "length": 1,
+    "token": "ஜம்மு",
+    "cls": "location"
+  },
+  {
+    "start": 171,
+    "length": 1,
+    "token": "ஜம்மு",
+    "cls": "location"
+  },
+  {
+    "start": 175,
+    "length": 2,
+    "token": "லடாக் பகுதிகளை",
+    "cls": "group"
+  },
+  {
+    "start": 54,
+    "length": 2,
+    "token": "லடாக் பகுதிகளை ",
+    "cls": "location"
+  },
+  {
+    "start": 50,
+    "length": 1,
+    "token": "காஷ்மீர் ",
+    "cls": "location"
+  },
+  {
+    "start": 41,
+    "length": 1,
+    "token": "காஷ்மீர்",
+    "cls": "location"
+  },
+  {
+    "start": 101,
+    "length": 1,
+    "token": "காஷ்மீர்",
+    "cls": "location"
+  },
+  {
+    "start": 120,
+    "length": 1,
+    "token": "காஷ்மீர்",
+    "cls": "location"
+  },
+  {
+    "start": 146,
+    "length": 1,
+    "token": "காஷ்மீரை",
+    "cls": "location"
+  },
+  {
+    "start": 154,
+    "length": 1,
+    "token": "காஷ்மீருக்கு",
+    "cls": "location"
+  },
+  {
+    "start": 163,
+    "length": 1,
+    "token": "காஷ்மீர்",
+    "cls": "location"
+  },
+  {
+    "start": 172,
+    "length": 1,
+    "token": "காஷ்மீர்",
+    "cls": "location"
+  },
+  {
+    "start": 60,
+    "length": 1,
+    "token": "இந்திய ",
+    "cls": "location"
+  },
+  {
+    "start": 93,
+    "length": 1,
+    "token": "இந்தியா-பாகிஸ்தான் ",
+    "cls": "group"
+  },
+  {
+    "start": 112,
+    "length": 1,
+    "token": "பாகிஸ்தானுடன் ",
+    "cls": "location"
+  },
+  {
+    "start": 177,
+    "length": 1,
+    "token": "பாகிஸ்தானுடன்",
+    "cls": "location"
+  },
+  {
+    "start": 123,
+    "length": 1,
+    "token": "பஷ்தூன் ",
+    "cls": "group"
+  },
+  {
+    "start": 128,
+    "length": 3,
+    "token": "22 அக்டோபர் 1947 ",
+    "cls": "time"
+  },
+  {
+    "start": 144,
+    "length": 1,
+    "token": "இந்தியாவுடன் ",
+    "cls": "location"
+  },
+  {
+    "start": 158,
+    "length": 1,
+    "token": "ஜம்மு-காஷ்மீரில் ",
+    "cls": "group"
+  },
+  {
+    "start": 189,
+    "length": 3,
+    "token": "1 சனவரி 1948இல் ",
+    "cls": "time"
+  }
+]
