@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e38d71db-e460-4bef-aa7c-4a8581d73d24" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crf_pre_process/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ner_tagger/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pos_tagger/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/word_segmenter/__init__.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/kannada/json/1.json" afterPath="" />
     </list>
     <ignored path="NER-Kannada.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -147,20 +143,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="kannada" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NER-Kannada" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NER-Kannada" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ascii_encoding" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
