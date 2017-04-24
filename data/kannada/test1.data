@@ -1,9 +1,0 @@
-ನಾನು PRP ನಾನು O O
-ಚೆನೈ NN ಚೆನೈ O LOC
-ಇಂದ	IN ಇಂದ O
-ಬಂದಿರುವೆ VB	ಬಂದಿರುವೆ O O
-.	SYM	O O O
-ಎಲ್ಲಿ RB ಎಲ್ಲಿ O O
-ಬೆಂಗಳೂರು NN ಬೆಂಗಳೂರು O LOC
-. SYM O O O
-ಭಾರತದ NNP ಭಾರತದ O B-LOC
