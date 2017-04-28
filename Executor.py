@@ -70,7 +70,7 @@ class Executor:
         print("Morpheme Analyzer Execution Finished")
 
     def find_suffix_features(self):
-        print("Creating Suffix Features)
+        print("Creating Suffix Features")
         person_input_file = open(parser.get('suffix_files','person_suffix_file'),'r',encoding = 'utf-8')
         location_input_file = open(parser.get('suffix_files','location_suffix_file'),'r',encoding = 'utf-8')
         org_input_file = open(parser.get('suffix_files','org_suffix_file'),'r',encoding = 'utf-8')
