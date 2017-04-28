@@ -1,0 +1,33 @@
+#unigram
+#word
+U00:%x[0,0]
+
+#window of words
+#previous word
+U01:%x[-1,0]
+U02:%x[-2,0]
+
+#First Word
+U03:%x[0,5]
+
+#Window of NER Tags
+#U
+U05:%x[0,12]
+#U06:%x[1,5]
+
+#Window of Root Tags
+U07:%x[0,2]
+U08:%x[-1,2]
+U09:%x[1,2]
+
+
+#Window of Suffix Tags
+U010:%x[0,3]
+U011:%x[-1,3]
+U012:%x[1,3]
+
+#Date
+U013:%x[0,4]
+
+
+

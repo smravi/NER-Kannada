@@ -1,0 +1,8 @@
+#unigram
+#word
+U00:%x[0,0]
+
+#window of words
+#previous word
+U01:%x[-1,0]
+U02:%x[-2,0]
